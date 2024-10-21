@@ -18,4 +18,5 @@ public class school{
         school obj = new school();
         obj.passorfail(number);
 }
+
 }
