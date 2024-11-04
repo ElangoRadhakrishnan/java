@@ -18,4 +18,5 @@ public class sample_array {
 		}
 		System.out.println(result);
 }
+
 }
